@@ -1,0 +1,15 @@
+# Ignore dataset files
+assignment2/cs231n/datasets/
+
+# Ignore large data files
+*.h5
+*.npz
+*.pkl
+*.npy
+
+# Usual Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
